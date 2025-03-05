@@ -1,5 +1,9 @@
 # Infrastructure AWS avec Terraform : Application Web Évolutive
 
+<div align="center">
+  <img src="infra_diagram.png" alt="Description de l'image">
+</div>
+
 ## Aperçu de l'infrastructure
 
 - **VPC** : Réseau virtuel avec deux subnets publics pour la haute disponibilité.
